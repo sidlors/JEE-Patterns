@@ -174,5 +174,7 @@
     <module>jee-ejb</module>
     <module>jee-web</module>
     <module>jee-ear</module>
+    <module>jee-jpa</module>
+    <module>jee-test</module>
   </modules>
 </project>

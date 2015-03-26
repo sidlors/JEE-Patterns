@@ -1,7 +1,7 @@
-package com.certificatic.practica1.ejb;
+package com.sidlors.ejb;
 
-import com.certificatic.practica1.ejb.local.SaludaEJBLocal;
-import com.certificatic.practica1.ejb.remote.SaludaEJBRemote;
+import com.sidlors.ejb.local.SaludaEJBLocal;
+import com.sidlors.ejb.remote.SaludaEJBRemote;
 
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;

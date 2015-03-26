@@ -1,4 +1,4 @@
-package com.certificatic.practica1.ejb.remote;
+package com.sidlors.ejb.remote;
 
 import javax.ejb.Remote;
 

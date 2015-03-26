@@ -1,4 +1,4 @@
-package com.certificatic.servlet;
+package com.sidlors.servlet;
 
 import java.io.IOException;
 
@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.certificatic.practica1.ejb.SaludaEJB;
+import com.sidlors.ejb.SaludaEJB;
 
 /**
  * Servlet implementation class SaludaServlet

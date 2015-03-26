@@ -1,4 +1,4 @@
-package com.certificatic.practica1.ejb.local;
+package com.sidlors.ejb.local;
 
 import javax.ejb.Local;
 
