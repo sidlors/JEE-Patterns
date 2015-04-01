@@ -11,7 +11,7 @@
 	<artifactId>jee-web</artifactId>
 	<packaging>war</packaging>
 
-	<name>jee-ejb Web module</name>
+	<name>jee War module</name>
 
 	<dependencies>
 

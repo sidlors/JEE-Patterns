@@ -11,7 +11,7 @@
    <artifactId>jee-ear</artifactId>
    <packaging>ear</packaging>
 
-   <name>jee-ejb EAR module</name>
+   <name>jee EAR module</name>
 
    <dependencies>
 
@@ -30,7 +30,7 @@
    </dependencies>
 
    <build>
-      <finalName>jee-ejb</finalName>
+      <finalName>jee</finalName>
       <plugins>
          <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -40,13 +40,15 @@
                <version>6</version>
                <defaultLibBundleDir>lib</defaultLibBundleDir>
                <modules>
-
                   <webModule>
                      <groupId>sidlors-jee</groupId>
                      <artifactId>jee-web</artifactId>
                      <contextRoot>/jee-ejb</contextRoot>
                   </webModule>
-
+                  <ejbModule>
+                  <groupId>sidlors-jee</groupId>
+                     <artifactId>jee-ejb</artifactId>
+                  </ejbModule>
                </modules>
             </configuration>
          </plugin>

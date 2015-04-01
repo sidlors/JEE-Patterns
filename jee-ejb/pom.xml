@@ -12,7 +12,7 @@
 	<artifactId>jee-ejb</artifactId>
 	<packaging>ejb</packaging>
 
-	<name>jee-ejb EJB module</name>
+	<name>jee EJB module</name>
 
 	<dependencies>
 
