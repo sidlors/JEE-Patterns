@@ -185,7 +185,12 @@
 		<module>jee-web</module>
 		<module>jee-ear</module>
 		<module>jee-jpa</module>
-		<module>jee-test</module>
 		<module>jee-ws</module>
 	</modules>
+	<repositories>
+    <repository>
+      <id>codelds</id>
+      <url>https://code.lds.org/nexus/content/groups/main-repo</url>
+    </repository>
+  </repositories>
 </project>
