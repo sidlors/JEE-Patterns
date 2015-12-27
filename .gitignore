@@ -21,3 +21,12 @@ jee-ws/.settings/
 jee-web/.classpath
 *.project
 jee-web/.classpath
+*.prefs
+jee-ear/.project
+*.component
+jee-ear/.settings/org.eclipse.wst.common.component
+*.classpath
+jee-ejb/.project
+*.project
+*.project
+*.classpath
