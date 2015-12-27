@@ -30,3 +30,9 @@ jee-ejb/.project
 *.project
 *.project
 *.classpath
+jee-ear/.project
+*.component
+jee-ejb/.project
+*.project
+jee-ejb/.classpath
+*.project
